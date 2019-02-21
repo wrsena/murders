@@ -1,1 +1,1 @@
-Analise dos dados de assassintos por armas nos E.U.A
+Analise dos dados de assassinatos por armas no E.U.A
